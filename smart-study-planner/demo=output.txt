@@ -1,0 +1,13 @@
+Enter subjects: math, physics, chemistry
+Enter weak subjects: math
+Enter total study hours: 6
+
+📚 Smart Study Plan:
+
+math → 3.0 hours
+physics → 1.5 hours
+chemistry → 1.5 hours
+
+💡 Advice:
+- Focus more on weak subjects
+- Revise difficult topics daily
